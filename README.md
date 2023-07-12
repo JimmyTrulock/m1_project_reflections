@@ -25,17 +25,22 @@ You will need to copy this markdown, create your own **private** gist, and paste
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. google
+2. ruby docs
+3. questions asked in the slack
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
+creats a linked list with nodes that can be minipulated through methods. It then can return a say camand to speak the data in the terminal.
 
 ### Reflection Questions: 
 **1. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**<br />
+Testing was an intresting concept to tackle. At first I struggled with it, but through repetition I've picked it up. testing lets us test the code in the system, how a user might come accross the data. The testing requiers a describe do and an it do. We next feed the info inot the test such as x = Class.new(data). Finally we have an expect line to check and see if x is indeed an inctance of the Class. For example, I tested the Node class by creating the variable node_1 then fed it through the expect(node_1) to be an instance of (Node) and the system returned a pass.
+
 **2. What was your process when you got stuck?**<br />
+walk away. several times I got stuck and steping away to do something else to get the mind off the problem really helped.
 **3. If you had to do this project again, what would you do differently and why?**<br />
+I'd ask more questions, the ending was a little unclear to me so I would ask about that.
 
 ## Second Solo
 
