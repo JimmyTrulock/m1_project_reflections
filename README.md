@@ -45,6 +45,14 @@ I'd ask more questions, the ending was a little unclear to me so I would ask abo
 ## Second Solo
 
 ### Project Overview
+1.Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.
+Process was to read the errors one by one and fix them.
+
+2.What was hard about working with code you did not write? 
+Trying to decipher what was trying to be done with the code by the previous coder.
+
+3.What was easier than you expected about jumping in to an unfamiliar codebase? What made it easy? If nothing felt easy, what would’ve helped you feel more comfortable more quickly? 
+I thought I would struggle more with reading it, but I was able to mostly understand it at a glance.
 
 #### List out the tools you used:
 1.
