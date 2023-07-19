@@ -46,26 +46,38 @@ I'd ask more questions, the ending was a little unclear to me so I would ask abo
 
 ### Project Overview
 1.Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.
+
 Process was to read the errors one by one and fix them.
 
 2.What was hard about working with code you did not write? 
+
 Trying to decipher what was trying to be done with the code by the previous coder.
 
 3.What was easier than you expected about jumping in to an unfamiliar codebase? What made it easy? If nothing felt easy, what would’ve helped you feel more comfortable more quickly? 
+
 I thought I would struggle more with reading it, but I was able to mostly understand it at a glance.
 
 #### List out the tools you used:
-1.
-2.
-3.
+1.google
+2.ruby docs
+3. class mates
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
+it creats DMV facilities and vehicles for verious services.
 
 ### Reflection Questions: 
 **1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
+
+Process was to read the errors one by one and fix them.
+
 **2. What was the benefit of using TDD while building out this project?**<br />
+
+Helped plan out how I wouuld write my code.
+
 **3. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
+
+Google really helped by answering some questions on how I could dig into hashes.
 
 ## Paired Paired
 
